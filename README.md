@@ -1,7 +1,3 @@
-\* C enthusiast and low level programmer;
+silly cat girl that likes sonic and bluey
 
-\* obsessed with optimization;
-
-\* high level languages are overrated;
-  
-\* x86 Assembly, C, C++, Rust;
+i have the computer smarts
